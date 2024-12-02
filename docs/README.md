@@ -12,6 +12,7 @@ permalink: /
 
 
 ## About
+TESTING THE EDIT
 
 This project is built around using markdown content to make a website. 
 
