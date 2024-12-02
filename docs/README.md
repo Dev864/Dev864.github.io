@@ -1,7 +1,9 @@
 ---
 permalink: /
 ---
-# **RESUME**
+# **Devin Bramlett**
+
+## Resume
 > Here's a link to my resume
 
 <div align="center">
