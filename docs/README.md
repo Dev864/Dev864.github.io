@@ -6,7 +6,7 @@ permalink: /
 ## Resume
 > Here's a link to my resume
 
-<div align="center">
+<div align="left">
     <a href="https://docs.google.com/document/d/1gLyUIw3TKcWr22TKjy8_VwMQVmGr9y8ykJOBIJSFbQ8/edit?tab=t.0#heading=h.x8fm1uorkbaw">
         <img src="https://img.shields.io/badge/Devin's%20Resume-blue">
     </a>
