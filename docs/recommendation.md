@@ -13,3 +13,6 @@
     allowfullscreen>
   </iframe>
 </div>
+
+## Description
+This is a simple book recomendation system written in c++.
