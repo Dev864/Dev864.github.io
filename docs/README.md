@@ -26,8 +26,8 @@ Hi! My name is Devin Bramlett, and I am a Computer Science student at Clemson Un
 ## Projects
 Some of my work: (not active links yet).
 
-- [About](about.md)
-- [Features](features.md)
+- [Book Recommendation System](recommendation.md)
+- [Meal Idea Generator](meal.md)
 - [Limitations](limitations.md)
 - [What about a Wiki?](wiki.md)
 
