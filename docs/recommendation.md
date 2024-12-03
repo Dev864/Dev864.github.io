@@ -2,6 +2,12 @@
 
 ## Files
 
-
 ## Here is a short demo video
-[![Book Recommendation](https://img.youtube.com/vi/ors-qiFAPek/0.jpg)](https://www.youtube.com/watch?v=ors-qiFAPek){:target="_blank"}
+
+<div style="max-width: 560px; aspect-ratio: 16/9; border: 1px solid #ccc; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/ors-qiFAPek" 
+    style="width: 100%; height: 100%; border: none;" 
+    allowfullscreen>
+  </iframe>
+</div>
