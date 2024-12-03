@@ -1,6 +1,8 @@
 # **Book Recommendation System**
 
 ## Files
+<!-- you need to put the zip file in the same directory -->
+[Download the ZIP file](recommendation.zip)
 
 ## Here is a short demo video
 
