@@ -1,0 +1,7 @@
+.home-link {
+    display: none; /* Hide the Home link by default */
+}
+
+body:not(.main-page) .home-link {
+    display: inline; /* Show the Home link on subpages */
+}
