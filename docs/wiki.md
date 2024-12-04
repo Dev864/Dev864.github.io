@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="/assets/style.css">
+<a href="/" class="home-link">Home</a>
+
 # **What about a Wiki?**
 
 [![Project Wiki](https://img.shields.io/badge/Wiki-blue?style=for-the-badge)](https://github.com/MichaelCurrin/gh-pages-no-jekyll/wiki)

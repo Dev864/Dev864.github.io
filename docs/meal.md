@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="/assets/style.css">
+<a href="/" class="home-link">Home</a>
+
 # **Features**
 
 - Suitable for light docs site of a few pages.

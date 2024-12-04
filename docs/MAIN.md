@@ -3,9 +3,7 @@ layout: default
 class: main-page
 permalink: /
 ---
-<link rel="stylesheet" href="/assets/style.css">
 
-<a href="/" class="home-link">Home</a>
 
 # **Devin Bramlett**
 
