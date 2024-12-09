@@ -1,4 +1,4 @@
-[HOME](MAIN.md)
+## [Home Page](MAIN.md)
 
 # **Features**
 
