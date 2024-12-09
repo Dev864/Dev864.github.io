@@ -1,7 +1,7 @@
 .home-link {
     display: none; /* Hide the Home link by default */
-      font-size: 24px; /* adjust the size as needed */
-      font-weight: bold;
+  font-size: 100px !important;
+  font-weight: bold !important;
 }
 
 body:not(.main-page) .home-link {
