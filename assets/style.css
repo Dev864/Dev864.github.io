@@ -1,9 +1,0 @@
-.home-link {
-    display: none; /* Hide the Home link by default */
-  font-size: 100px !important;
-  font-weight: bold !important;
-}
-
-body:not(.main-page) .home-link {
-    display: inline; /* Show the Home link on subpages */
-}
