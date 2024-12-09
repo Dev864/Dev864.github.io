@@ -4,6 +4,6 @@
 
 body:not(.main-page) .home-link {
     display: inline; /* Show the Home link on subpages */
-      font-size: 24px; /* adjust the size as needed */
+      font-size: 100px; /* adjust the size as needed */
       font-weight: bold;
 }
