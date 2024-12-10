@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="../assets/styles.css">
+
 ## [Home Page](MAIN.md)
 
 # **What about a Wiki?**

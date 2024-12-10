@@ -1,13 +1,10 @@
+<link rel="stylesheet" type="text/css" href="../assets/styles.css">
+
 ---
 layout: default
 class: main-page
 permalink: /
 ---
-<style>
-body {
-  background-color: #c5c6d6; /* light gray background */
-}
-</style>
 
 # **Devin Bramlett**
 
