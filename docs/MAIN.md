@@ -5,7 +5,7 @@ permalink: /
 ---
 <style>
 body {
-  background-color: #444444; /* light gray background */
+  background-color: #333333; /* light gray background */
 }
 </style>
 
