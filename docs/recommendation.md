@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="../assets/styles.css">
+<link rel="stylesheet" type="text/css" href="assets/styles.css">
 
 ## [Home Page](MAIN.md)
 
