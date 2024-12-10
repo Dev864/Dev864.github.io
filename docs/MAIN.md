@@ -3,7 +3,7 @@ layout: default
 class: main-page
 permalink: /
 ---
-<link rel="stylesheet" type="text/css" href="assets/styles.css">
+{% include styles.md %}
 # **Devin Bramlett**
 
 <img src="sexydev.jpg" alt="Circular Photo" style="border-radius: 50%; width: 250px; height: 250px; object-fit: cover;">
