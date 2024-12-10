@@ -6,7 +6,7 @@ permalink: /
 
 # **Devin Bramlett**
 
-<img src="sexydev.jpg" alt="Circular Photo" style="border-radius: 39%; width: 300px; height: 300px;">
+<img src="sexydev.jpg" alt="Circular Photo" style="border-radius: 39%; width: 250px; height: 250px; object-fit: cover;">
 
 ## Resume
 Here's a link to my resume.
