@@ -1,4 +1,8 @@
-{% include styles.md %}
+<style>
+body {
+  background-color: #c5c6d6; /* dark grey background */
+}
+</style>
 
 ## [Home Page](MAIN.md)
 

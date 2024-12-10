@@ -3,7 +3,12 @@ layout: default
 class: main-page
 permalink: /
 ---
-{% include styles.md %}
+<style>
+body {
+  background-color: #c5c6d6; /* dark grey background */
+}
+</style>
+
 # **Devin Bramlett**
 
 <img src="sexydev.jpg" alt="Circular Photo" style="border-radius: 50%; width: 250px; height: 250px; object-fit: cover;">
