@@ -1,4 +1,8 @@
-
+---
+layout: default
+class: main-page
+permalink: /
+---
 <style>
 body {
   background-color: #f2f2f2; /* light gray background */
