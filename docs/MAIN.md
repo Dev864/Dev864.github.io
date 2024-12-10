@@ -1,10 +1,9 @@
-<link rel="stylesheet" type="text/css" href="../assets/styles.css">
-
 ---
 layout: default
 class: main-page
 permalink: /
 ---
+<link rel="stylesheet" type="text/css" href="../assets/styles.css">
 
 # **Devin Bramlett**
 
